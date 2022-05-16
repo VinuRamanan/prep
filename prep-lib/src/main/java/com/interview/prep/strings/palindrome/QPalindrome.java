@@ -1,4 +1,4 @@
-package main.java.com.interview.prep.palindrome;
+package main.java.com.interview.prep.strings.palindrome;
 
 /*
 
